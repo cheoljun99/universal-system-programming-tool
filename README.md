@@ -1,2 +1,2 @@
-# Development-Kit
-System Programming Development Kit
+# development-kit
+System programming development kit
