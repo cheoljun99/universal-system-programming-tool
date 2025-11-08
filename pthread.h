@@ -4,7 +4,7 @@
 #include <atomic>
 #include <exception>
 #include <iostream>
-#include <string.h>
+#include <cstring>
 #include <unistd.h>
 
 class Pthread {
