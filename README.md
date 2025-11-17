@@ -16,34 +16,34 @@
 
 ## 🚀 Key Features
 
-### Data Format Object
+### 💡 Data Format Object
 
-Data structures, format classes, etc., such as protocols
+- Data structures, format classes, etc., such as protocols
 
-### Data Type Object
+### 💡 Data Type Object
 
 Data type classes
 
-### Logical Datastructure Object
+### 💡 Logical Datastructure Object
 
 Logical data structure classes
 
-### OS Utils
+### 💡 OS Utils
 
 System functions available on Linux and Windows
 
-### Shared Buffer Object
+### 💡 Shared Buffer Object
 
 A buffer class that allows data to be shared between multiple threads
 
-### Signal Buffer Object
+### 💡 Signal Buffer Object
 
 A buffer class that allows data to be sent and received via signals between multiple threads
 
-### Synchronization Mechanism Object
+### 💡 Synchronization Mechanism Object
 
 Synchronization mechanism classes used between multiple threads
 
-### Thread Object
+### 💡 Thread Object
 
 Thread object classes and thread pool classes available for threaded programming
