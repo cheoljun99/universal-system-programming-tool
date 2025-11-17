@@ -12,7 +12,7 @@
 
 - **💡 Data Format Object**
 
-Data structures, format classes, etc., such as protocols
+Data structures, format structs, etc., such as protocols
 
 - **💡 Data Type Object**
 
