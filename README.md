@@ -15,19 +15,19 @@ The goal of this project is to modularize these common elements and, in OS-depen
 
 ## Key Features
 
-# **Shared Buffer**  
+### **Shared Buffer**  
 
 A buffer class that allows data to be shared between multi thread
 
 ![docs/sharedbuffer.png](docs/sharedbuffer.png)
 
-# **Signal Buffer**  
+### **Signal Buffer**  
 
 A buffer class that allows data to be sent and received via signals between multi thread
 
 ![docs/signalbuffer.png](docs/signalbuffer.png)
 
-# **Thread**  
+### **Thread**
 
 Thread object classes and thread pool classes available for multi thread programming
 
